@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author c0662834
+ * @author c0664589 
  */
 public class DBSample {
 
